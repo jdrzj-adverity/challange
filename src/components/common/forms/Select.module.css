@@ -1,0 +1,14 @@
+.select {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.option {
+    overflow: hidden;
+    display: block;
+}
+
+.label {
+    margin-top: 10px;
+}
